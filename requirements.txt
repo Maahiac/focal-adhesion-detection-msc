@@ -1,0 +1,12 @@
+# Pinned packages for YOLOv8 baseline (CPU)
+ultralytics==8.2.61
+numpy==1.26.4
+scipy==1.11.4
+opencv-python-headless==4.8.0.74
+matplotlib==3.8.4
+pandas==2.2.2
+Pillow==10.2.0
+tensorboard==2.15.1
+roboflow==1.1.27
+torch==2.2.1
+torchvision==0.17.1

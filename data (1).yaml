@@ -1,0 +1,7 @@
+names:
+  - focal adhesion
+nc: 1
+# Update these to your local paths before running
+train: /path/to/focal_adhesion_dataset/train/images
+val:   /path/to/focal_adhesion_dataset/valid/images
+test:  /path/to/focal_adhesion_dataset/test/images
