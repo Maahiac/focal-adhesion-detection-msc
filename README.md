@@ -4,7 +4,7 @@ Reproducible single-class detector for focal adhesions (FAs) in fluorescence mic
 The work evaluates augmentation, morphology-preserving resizing, and modest data scaling to support future modelling of FA dynamics.
 A GUI-based RT‑DETR baseline was also trained on the same annotations for comparison.
 
-> **Code availability line (paste into your Methods):**  
+> **Code availability line:**  
 > Code and configuration are available at: https://github.com/Maahiac/focal-adhesion-detection-msc (Release v1.0.0).  
 > Dataset/model version IDs and exported metrics are listed in `VERSIONING.md`.
 
